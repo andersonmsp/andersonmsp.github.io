@@ -266,13 +266,6 @@ function sheHeader() {
                             }
                         }
                     }
-
-                    //console.log(sd_s );
-                    //console.log(sd_u );
-                    //console.log(window.innerHeight );
-                    //console.log(sd );
-                    //console.log(scroll );
-                    //console.log(bottom_shadow);
 								
 			if (scroll >= scroll_distance["size"]) {
 				header.removeClass('header').addClass("she-header");
@@ -285,14 +278,8 @@ function sheHeader() {
 					container.css({"min-height": shrink_height, "transition":"all 0.4s ease-in-out", "-webkit-transition":"all 0.4s ease-in-out", "-moz-transition":"all 0.4s ease-in-out"});				
 				}
 				
-// 				console.log(data_height["size"] + "px");
-				
 				if( change_logo_color == "yes" ) {
 					header_logo.addClass("change-logo-color");
-				}
-								
-				if( blur_bg == "yes" ) {
-					header.css({"backdrop-filter": "saturate(180%) blur(20px)", "-webkit-backdrop-filter": "saturate(180%) blur(20px)"});					
 				}
 				
 				// ---------------------------------- SHRINK LOGO
@@ -327,9 +314,7 @@ function sheHeader() {
 					header_logo.removeClass("change-logo-color");
 										
 				}
-					if( blur_bg == "yes" ) {
-						header.css({"backdrop-filter": "", "-webkit-backdrop-filter": ""});
-					}
+
 				}
 
 				

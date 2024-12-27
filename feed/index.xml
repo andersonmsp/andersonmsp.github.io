@@ -8,44 +8,24 @@
 	>
 
 <channel>
-	<title>Anderson Martins &#8211; UI/UX Designer</title>
+	<title>Anderson Martins &#8211; UX/UI Designer</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Sun, 03 Dec 2023 15:59:00 +0000</lastBuildDate>
-	<language>pt-BR</language>
+	<description>Hey there, I’m Anderson, a UX/UI designer with over 4 years of experience creating brandings, user interfaces and user experiences designs for digital products and services.</description>
+	<lastBuildDate>Fri, 27 Dec 2024 01:16:37 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/cropped-favicon-32x32.png</url>
-	<title>Anderson Martins &#8211; UI/UX Designer</title>
+	<url>/wp-content/uploads/2024/12/favicon-150x150.png</url>
+	<title>Anderson Martins &#8211; UX/UI Designer</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[termerus]]></dc:creator>
-		<pubDate>Sun, 03 Dec 2023 15:59:00 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
